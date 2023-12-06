@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "title": "Viajes",
+    "image": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilc8TrpwsN7w3qNKgf2jERMvuvSe8aM0bp9G3LZ1nALF3-lnK4getuBlyXbo1LXwKgWE&usqp=CAU",
+      "alt": ""
+    },
+    "favorite": true,
+    "enabled": true
+  },
+  {
+    "id": 1,
+    "title": "Vacaciones",
+    "image": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilc8TrpwsN7w3qNKgf2jERMvuvSe8aM0bp9G3LZ1nALF3-lnK4getuBlyXbo1LXwKgWE&usqp=CAU",
+      "alt": ""
+    },
+    "favorite": false,
+    "enabled": false
+  },
+  {
+    "id": 2,
+    "title": "Permisos",
+    "image": {
+      "url": "https://cdn-icons-png.flaticon.com/512/5775/5775764.png",
+      "alt": ""
+    },
+    "favorite": false,
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "title": "Teletrabajo",
+    "image": {
+      "url": "https://cdn-icons-png.flaticon.com/512/5775/5775764.png",
+      "alt": ""
+    },
+    "favorite": false,
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "title": "Teletrabajo2222",
+    "image": {
+      "url": "https://cdn-icons-png.flaticon.com/512/5775/5775764.png",
+      "alt": ""
+    },
+    "favorite": false,
+    "enabled": true
+  }
+]

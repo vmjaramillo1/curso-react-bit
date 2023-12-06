@@ -1,0 +1,18 @@
+.module-card {
+  border-width: 2px;
+  border-style: solid;
+  border-color: lightgray;
+
+  &--favorite {
+    border-color: greenyellow;
+  }
+
+  &--cliked {
+    background-color: #6c6c6c;
+  }
+
+  &__description {
+    text-align: center;
+    color: lightgreen;
+  }
+}
