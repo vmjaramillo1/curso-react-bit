@@ -17,16 +17,6 @@ body {
   flex-direction: column;
 }
 
-header {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.75);
-  padding: 8px;
-  margin-bottom: 16px;
-
-  text-align: center;
-  border-bottom-right-radius: 50%;
-  border-bottom-left-radius: 50%;
-}
-
 footer {
   margin-top: auto;
   text-align: center;

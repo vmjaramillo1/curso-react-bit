@@ -1,7 +1,0 @@
-.image {
-  filter: drop-shadow(0 0 0.75rem lightgreen);
-}
-
-.image-danger {
-  filter: drop-shadow(0 0 0.75rem red);
-}
